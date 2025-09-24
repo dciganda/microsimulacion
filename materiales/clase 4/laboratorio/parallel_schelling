@@ -564,3 +564,503 @@ Execution halted
 2: In file(filename, "r", encoding = encoding) :
   cannot open file 'schelling_fun.R': No such file or directory
 Execution halted
+starting worker pid=16460 on localhost:11388 at 14:19:52.974
+starting worker pid=17616 on localhost:11388 at 14:19:53.162
+starting worker pid=5724 on localhost:11388 at 14:19:53.349
+starting worker pid=13468 on localhost:11388 at 14:19:53.567
+
+ Everybody Happy after 1 years
+ Proportion Similar 0.471519831015955
+ Preferences: 0 
+ Density: 0.45
+ Everybody Happy after 5 years
+ Proportion Similar 0.638378733719545
+ Preferences: 0.1 
+ Density: 0.45
+ Everybody Happy after 6 years
+ Proportion Similar 0.660710198242387
+ Preferences: 0.2 
+ Density: 0.45
+ Everybody Happy after 11 years
+ Proportion Similar 0.794918724153462
+ Preferences: 0.3 
+ Density: 0.45
+ Everybody Happy after 15 years
+ Proportion Similar 0.737670760611937
+ Preferences: 0.3 
+ Density: 0.85
+ Everybody Happy after 12 years
+ Proportion Similar 0.876098821881694
+ Preferences: 0.4 
+ Density: 0.45
+ Everybody Happy after 27 years
+ Proportion Similar 0.982846409591874
+ Preferences: 0.6 
+ Density: 0.7
+ Everybody Happy after 13 years
+ Proportion Similar 0.93871975019516
+ Preferences: 0.5 
+ Density: 0.45
+ Everybody Happy after 15 years
+ Proportion Similar 0.828987287222581
+ Preferences: 0.4 
+ Density: 0.85
+ Everybody Happy after 28 years
+ Proportion Similar 0.988840705406187
+ Preferences: 0.6 
+ Density: 0.45
+ Everybody Happy after 18 years
+ Proportion Similar 0.874819004524887
+ Preferences: 0.5 
+ Density: 0.85
+ Everybody Happy after 44 years
+ Proportion Similar 0.997289599411981
+ Preferences: 0.7 
+ Density: 0.7
+ Everybody Happy after 51 years
+ Proportion Similar 0.997292576419214
+ Preferences: 0.7 
+ Density: 0.45
+ Everybody Happy after 48 years
+ Proportion Similar 0.977600732600733
+ Preferences: 0.6 
+ Density: 0.85
+ End Iterations
+ Proportion Similar 0.541461844569288
+ Preferences: 0.8 
+ Density: 0.55
+ End Iterations
+ Proportion Similar 0.555987184211604
+ Preferences: 0.8 
+ Density: 0.45
+ Everybody Happy after 85 years
+ Proportion Similar 0.996455505279035
+ Preferences: 0.7 
+ Density: 0.85
+ End Iterations
+ Proportion Similar 0.525071336945993
+ Preferences: 0.8 
+ Density: 0.7
+ End Iterations
+ Proportion Similar 0.498037300474187
+ Preferences: 0.9 
+ Density: 0.55
+ End Iterations
+ Proportion Similar 0.510698865038243
+ Preferences: 0.9 
+ Density: 0.45
+ End Iterations
+ Proportion Similar 0.500872849139656
+ Preferences: 1 
+ Density: 0.55
+ Everybody Happy after 1 years
+ Proportion Similar 0.494422554140322
+ Preferences: 0 
+ Density: 0.6
+ End Iterations
+ Proportion Similar 0.539321633825944
+ Preferences: 1 
+ Density: 0.45
+ Everybody Happy after 4 years
+ Proportion Similar 0.555768467643468
+ Preferences: 0.1 
+ Density: 0.6
+ Everybody Happy after 1 years
+ Proportion Similar 0.488974316578483
+ Preferences: 0 
+ Density: 0.5
+ Everybody Happy after 5 years
+ Proportion Similar 0.610724374495561
+ Preferences: 0.1 
+ Density: 0.5
+ Everybody Happy after 6 years
+ Proportion Similar 0.602188397823828
+ Preferences: 0.2 
+ Density: 0.6
+ Everybody Happy after 6 years
+ Proportion Similar 0.637741486124858
+ Preferences: 0.2 
+ Density: 0.5
+ Everybody Happy after 9 years
+ Proportion Similar 0.749796878340817
+ Preferences: 0.3 
+ Density: 0.6
+ Everybody Happy after 9 years
+ Proportion Similar 0.786831275720165
+ Preferences: 0.3 
+ Density: 0.5
+ End Iterations
+ Proportion Similar 0.504210843215791
+ Preferences: 0.9 
+ Density: 0.7
+ Everybody Happy after 11 years
+ Proportion Similar 0.829242646385045
+ Preferences: 0.4 
+ Density: 0.6
+ Everybody Happy after 14 years
+ Proportion Similar 0.84681712962963
+ Preferences: 0.4 
+ Density: 0.5
+ End Iterations
+ Proportion Similar 0.516602564102564
+ Preferences: 0.8 
+ Density: 0.85
+ Everybody Happy after 12 years
+ Proportion Similar 0.909301170236255
+ Preferences: 0.5 
+ Density: 0.5
+ Everybody Happy after 15 years
+ Proportion Similar 0.897867222578576
+ Preferences: 0.5 
+ Density: 0.6
+ Everybody Happy after 22 years
+ Proportion Similar 0.989396284829721
+ Preferences: 0.6 
+ Density: 0.5
+ Everybody Happy after 27 years
+ Proportion Similar 0.983188060066673
+ Preferences: 0.6 
+ Density: 0.6
+ Everybody Happy after 53 years
+ Proportion Similar 0.997869281045752
+ Preferences: 0.7 
+ Density: 0.5
+ Everybody Happy after 50 years
+ Proportion Similar 0.996925566343042
+ Preferences: 0.7 
+ Density: 0.6
+ End Iterations
+ Proportion Similar 0.489469518576661
+ Preferences: 1 
+ Density: 0.7
+ Everybody Happy after 1 years
+ Proportion Similar 0.504742368742369
+ Preferences: 0 
+ Density: 0.75
+ Everybody Happy after 3 years
+ Proportion Similar 0.524275946275946
+ Preferences: 0.1 
+ Density: 0.75
+ Everybody Happy after 7 years
+ Proportion Similar 0.59219474969475
+ Preferences: 0.2 
+ Density: 0.75
+ End Iterations
+ Proportion Similar 0.570047655847501
+ Preferences: 0.8 
+ Density: 0.5
+ Everybody Happy after 12 years
+ Proportion Similar 0.731069597069597
+ Preferences: 0.3 
+ Density: 0.75
+ Everybody Happy after 14 years
+ Proportion Similar 0.819289987789988
+ Preferences: 0.4 
+ Density: 0.75
+ Everybody Happy after 11 years
+ Proportion Similar 0.89009768009768
+ Preferences: 0.5 
+ Density: 0.75
+ End Iterations
+ Proportion Similar 0.562814991294786
+ Preferences: 0.8 
+ Density: 0.6
+ End Iterations
+ Proportion Similar 0.506855742296919
+ Preferences: 0.9 
+ Density: 0.85
+ Everybody Happy after 46 years
+ Proportion Similar 0.983371203791932
+ Preferences: 0.6 
+ Density: 0.75
+ End Iterations
+ Proportion Similar 0.500588322083287
+ Preferences: 0.9 
+ Density: 0.5
+ Everybody Happy after 57 years
+ Proportion Similar 0.993477144324602
+ Preferences: 0.7 
+ Density: 0.75
+ End Iterations
+ Proportion Similar 0.528440086746694
+ Preferences: 0.9 
+ Density: 0.6
+ End Iterations
+ Proportion Similar 0.504887218045113
+ Preferences: 1 
+ Density: 0.5
+ Everybody Happy after 1 years
+ Proportion Similar 0.489334831834832
+ Preferences: 0 
+ Density: 0.55
+ Everybody Happy after 3 years
+ Proportion Similar 0.574929187910294
+ Preferences: 0.1 
+ Density: 0.55
+ Everybody Happy after 5 years
+ Proportion Similar 0.62086207471092
+ Preferences: 0.2 
+ Density: 0.55
+ Everybody Happy after 10 years
+ Proportion Similar 0.756157750617779
+ Preferences: 0.3 
+ Density: 0.55
+ End Iterations
+ Proportion Similar 0.506310062486533
+ Preferences: 1 
+ Density: 0.85
+ Everybody Happy after 1 years
+ Proportion Similar 0.493924501424501
+ Preferences: 0 
+ Density: 0.9
+ Everybody Happy after 2 years
+ Proportion Similar 0.508253459503459
+ Preferences: 0.1 
+ Density: 0.9
+ Everybody Happy after 12 years
+ Proportion Similar 0.850302621048419
+ Preferences: 0.4 
+ Density: 0.55
+ Everybody Happy after 12 years
+ Proportion Similar 0.900307030753271
+ Preferences: 0.5 
+ Density: 0.55
+ Everybody Happy after 14 years
+ Proportion Similar 0.57714590964591
+ Preferences: 0.2 
+ Density: 0.9
+ Everybody Happy after 21 years
+ Proportion Similar 0.989136485580148
+ Preferences: 0.6 
+ Density: 0.55
+ Everybody Happy after 12 years
+ Proportion Similar 0.748516992266992
+ Preferences: 0.3 
+ Density: 0.9
+ Everybody Happy after 14 years
+ Proportion Similar 0.82675875050875
+ Preferences: 0.4 
+ Density: 0.9
+ End Iterations
+ Proportion Similar 0.534962148962149
+ Preferences: 0.8 
+ Density: 0.75
+ Everybody Happy after 50 years
+ Proportion Similar 0.997113792287674
+ Preferences: 0.7 
+ Density: 0.55
+ Everybody Happy after 21 years
+ Proportion Similar 0.862145400895401
+ Preferences: 0.5 
+ Density: 0.9
+ End Iterations
+ Proportion Similar 0.494704064144938
+ Preferences: 1 
+ Density: 0.6
+ Everybody Happy after 1 years
+ Proportion Similar 0.494531558185404
+ Preferences: 0 
+ Density: 0.65
+ Everybody Happy after 3 years
+ Proportion Similar 0.548674274443505
+ Preferences: 0.1 
+ Density: 0.65
+ Everybody Happy after 8 years
+ Proportion Similar 0.613377712031558
+ Preferences: 0.2 
+ Density: 0.65
+ Everybody Happy after 13 years
+ Proportion Similar 0.747330938292477
+ Preferences: 0.3 
+ Density: 0.65
+ Everybody Happy after 11 years
+ Proportion Similar 0.808015967050327
+ Preferences: 0.4 
+ Density: 0.65
+ Everybody Happy after 14 years
+ Proportion Similar 0.894163917787364
+ Preferences: 0.5 
+ Density: 0.65
+ Everybody Happy after 25 years
+ Proportion Similar 0.987806082148499
+ Preferences: 0.6 
+ Density: 0.65
+ Everybody Happy after 85 years
+ Proportion Similar 0.978025030525031
+ Preferences: 0.6 
+ Density: 0.9
+ Everybody Happy after 51 years
+ Proportion Similar 0.996191889218595
+ Preferences: 0.7 
+ Density: 0.65
+ End Iterations
+ Proportion Similar 0.505590964590965
+ Preferences: 0.9 
+ Density: 0.75
+ End Iterations
+ Proportion Similar 0.983919922669923
+ Preferences: 0.7 
+ Density: 0.9
+ End Iterations
+ Proportion Similar 0.540584095012413
+ Preferences: 0.8 
+ Density: 0.65
+ End Iterations
+ Proportion Similar 0.51492735042735
+ Preferences: 1 
+ Density: 0.75
+ Everybody Happy after 1 years
+ Proportion Similar 0.495240384615385
+ Preferences: 0 
+ Density: 0.8
+ Everybody Happy after 3 years
+ Proportion Similar 0.528056318681319
+ Preferences: 0.1 
+ Density: 0.8
+ Everybody Happy after 9 years
+ Proportion Similar 0.594329784798535
+ Preferences: 0.2 
+ Density: 0.8
+ Everybody Happy after 15 years
+ Proportion Similar 0.739675480769231
+ Preferences: 0.3 
+ Density: 0.8
+ Everybody Happy after 16 years
+ Proportion Similar 0.817308264652015
+ Preferences: 0.4 
+ Density: 0.8
+ End Iterations
+ Proportion Similar 0.497727528881375
+ Preferences: 0.9 
+ Density: 0.65
+ Everybody Happy after 29 years
+ Proportion Similar 0.894520375457875
+ Preferences: 0.5 
+ Density: 0.8
+ End Iterations
+ Proportion Similar 0.50254477004477
+ Preferences: 0.8 
+ Density: 0.9
+ Everybody Happy after 39 years
+ Proportion Similar 0.980581501831502
+ Preferences: 0.6 
+ Density: 0.8
+ Everybody Happy after 55 years
+ Proportion Similar 0.995424679487179
+ Preferences: 0.7 
+ Density: 0.8
+ End Iterations
+ Proportion Similar 0.489232882502113
+ Preferences: 1 
+ Density: 0.65
+ Everybody Happy after 1 years
+ Proportion Similar 0.506478283621141
+ Preferences: 0 
+ Density: 0.7
+ Everybody Happy after 4 years
+ Proportion Similar 0.533492935635793
+ Preferences: 0.1 
+ Density: 0.7
+ Everybody Happy after 6 years
+ Proportion Similar 0.588405285190999
+ Preferences: 0.2 
+ Density: 0.7
+ Everybody Happy after 9 years
+ Proportion Similar 0.754951596023025
+ Preferences: 0.3 
+ Density: 0.7
+ Everybody Happy after 15 years
+ Proportion Similar 0.809767791732077
+ Preferences: 0.4 
+ Density: 0.7
+ Everybody Happy after 13 years
+ Proportion Similar 0.879737035000916
+ Preferences: 0.5 
+ Density: 0.7
+ End Iterations
+ Proportion Similar 0.500119556369556
+ Preferences: 0.9 
+ Density: 0.9
+ End Iterations
+ Proportion Similar 0.525461881868132
+ Preferences: 0.8 
+ Density: 0.8
+ End Iterations
+ Proportion Similar 0.491025641025641
+ Preferences: 1 
+ Density: 0.9
+ Everybody Happy after 1 years
+ Proportion Similar 0.499128590707538
+ Preferences: 0 
+ Density: 0.95
+ Everybody Happy after 2 years
+ Proportion Similar 0.507225274725275
+ Preferences: 0.1 
+ Density: 0.95
+ Everybody Happy after 10 years
+ Proportion Similar 0.580905629458261
+ Preferences: 0.2 
+ Density: 0.95
+ End Iterations
+ Proportion Similar 0.504027586996337
+ Preferences: 0.9 
+ Density: 0.8
+ Everybody Happy after 24 years
+ Proportion Similar 0.769666473877
+ Preferences: 0.3 
+ Density: 0.95
+ Everybody Happy after 17 years
+ Proportion Similar 0.834671775592828
+ Preferences: 0.4 
+ Density: 0.95
+ Everybody Happy after 21 years
+ Proportion Similar 0.857268170426065
+ Preferences: 0.5 
+ Density: 0.95
+ End Iterations
+ Proportion Similar 0.499181547619048
+ Preferences: 1 
+ Density: 0.8
+ Everybody Happy after 1 years
+ Proportion Similar 0.503587050204697
+ Preferences: 0 
+ Density: 0.85
+ End Iterations
+ Proportion Similar 0.979524291497976
+ Preferences: 0.6 
+ Density: 0.95
+ Everybody Happy after 3 years
+ Proportion Similar 0.517563025210084
+ Preferences: 0.1 
+ Density: 0.85
+ Everybody Happy after 5 years
+ Proportion Similar 0.596063887093299
+ Preferences: 0.2 
+ Density: 0.85
+ End Iterations
+ Proportion Similar 0.967022845575477
+ Preferences: 0.7 
+ Density: 0.95
+ End Iterations
+ Proportion Similar 0.509179197994987
+ Preferences: 0.8 
+ Density: 0.95
+ End Iterations
+ Proportion Similar 0.511438692886061
+ Preferences: 0.9 
+ Density: 0.95
+ End Iterations
+ Proportion Similar 0.495949007133218
+ Preferences: 1 
+ Density: 0.95Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
